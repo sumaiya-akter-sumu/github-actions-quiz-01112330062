@@ -1,3 +1,4 @@
+from grade import get_grade
 
 
 def test_a_grade():
